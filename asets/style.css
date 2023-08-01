@@ -1,0 +1,22 @@
+.bg-gray {
+  background-color: #1e293b;
+}
+ul li {
+  font-size: 20px;
+  background-color: #e2e8f0;
+  border: 1px solid;
+  border-color: rgb(71 85 105);
+}
+.bg-gray-2 {
+  background-color: #e2e8f0;
+  border: 1px solid;
+  border-color: rgb(71 85 105);
+}
+.icon {
+  width: 20px;
+  height: 20px;
+}
+.icon-2 {
+  width: 90px;
+  height: 90px;
+}
